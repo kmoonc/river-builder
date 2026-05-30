@@ -2,6 +2,12 @@
 **/build/
 !**/src/**/build/
 
+# Ignore RiverSource
+river-src/
+river-war/
+**/.gradle_home_cache/
+**/.yarn_cache/
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
