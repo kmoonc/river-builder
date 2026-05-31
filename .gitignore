@@ -6,7 +6,8 @@
 river-src/
 river-war/
 **/.gradle_home_cache/
-**/.yarn_cache/
+**/node_modules/
+yarn.lock
 
 # Ignore Gradle GUI config
 gradle-app.setting
